@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/878/trunk/res/layout-sw720dp
+END
+add_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/878/trunk/res/layout-sw720dp/add_account.xml
+END
+comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/603/trunk/res/layout-sw720dp/comments.xml
+END
+edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/878/trunk/res/layout-sw720dp/edit.xml
+END
+new_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/674/trunk/res/layout-sw720dp/new_account.xml
+END
+posts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/603/trunk/res/layout-sw720dp/posts.xml
+END

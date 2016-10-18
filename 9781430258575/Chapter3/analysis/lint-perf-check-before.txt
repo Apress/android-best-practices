@@ -1,0 +1,12 @@
+Scanning todos: .......
+Scanning todos (Phase 2): ..
+res/layout/main.xml:28: Warning: The resource R.string.add_button_name appears to be unused [UnusedResources]
+            android:text="@+string/add_button_name" >
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+res/layout/main.xml:4: Warning: The resource R.id.widget31 appears to be unused [UnusedIds]
+    android:id="@+id/widget31"
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+res/layout/main.xml:9: Warning: The resource R.id.row appears to be unused [UnusedIds]
+        android:id="@+id/row"
+        ~~~~~~~~~~~~~~~~~~~~~
+0 errors, 3 warnings

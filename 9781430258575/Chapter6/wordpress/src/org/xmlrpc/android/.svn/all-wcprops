@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/888/trunk/src/org/xmlrpc/android
+END
+XMLRPCSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/861/trunk/src/org/xmlrpc/android/XMLRPCSerializer.java
+END
+XMLRPCFault.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/2/trunk/src/org/xmlrpc/android/XMLRPCFault.java
+END
+XMLRPCClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/888/trunk/src/org/xmlrpc/android/XMLRPCClient.java
+END
+XMLRPCException.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2/trunk/src/org/xmlrpc/android/XMLRPCException.java
+END
+ApiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/868/trunk/src/org/xmlrpc/android/ApiHelper.java
+END
+CustomMultipartEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/301/trunk/src/org/xmlrpc/android/CustomMultipartEntity.java
+END
+ConnectionClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/301/trunk/src/org/xmlrpc/android/ConnectionClient.java
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/889/trunk/src/org/wordpress/android
+END
+WPCOMReaderWebPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/809/trunk/src/org/wordpress/android/WPCOMReaderWebPage.java
+END
+AddAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/888/trunk/src/org/wordpress/android/AddAccount.java
+END
+NewAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/755/trunk/src/org/wordpress/android/NewAccount.java
+END
+ServiceUpdateUIListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30/trunk/src/org/wordpress/android/ServiceUpdateUIListener.java
+END
+EditComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/782/trunk/src/org/wordpress/android/EditComment.java
+END
+ViewCommentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/839/trunk/src/org/wordpress/android/ViewCommentActivity.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/888/trunk/src/org/wordpress/android/About.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/772/trunk/src/org/wordpress/android/Constants.java
+END
+ViewComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/889/trunk/src/org/wordpress/android/ViewComments.java
+END
+CommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/772/trunk/src/org/wordpress/android/CommentService.java
+END
+SelectCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/854/trunk/src/org/wordpress/android/SelectCategories.java
+END
+WPActionBarActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/888/trunk/src/org/wordpress/android/WPActionBarActivity.java
+END
+ViewWebStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/888/trunk/src/org/wordpress/android/ViewWebStats.java
+END
+Dashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/888/trunk/src/org/wordpress/android/Dashboard.java
+END
+WPCOMReaderPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/888/trunk/src/org/wordpress/android/WPCOMReaderPager.java
+END
+WordPress.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/888/trunk/src/org/wordpress/android/WordPress.java
+END
+WPCOMReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/888/trunk/src/org/wordpress/android/WPCOMReaderImpl.java
+END
+EditPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/888/trunk/src/org/wordpress/android/EditPost.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/439/trunk/src/org/wordpress/android/Link.java
+END
+WordPressDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/888/trunk/src/org/wordpress/android/WordPressDB.java
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/888/trunk/src/org/wordpress/android/Settings.java
+END
+Preferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/812/trunk/src/org/wordpress/android/Preferences.java
+END
+WPCOMReaderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/888/trunk/src/org/wordpress/android/WPCOMReaderBase.java
+END
+ViewPosts.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/889/trunk/src/org/wordpress/android/ViewPosts.java
+END
+ViewPostFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/870/trunk/src/org/wordpress/android/ViewPostFragment.java
+END
+Signup.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/797/trunk/src/org/wordpress/android/Signup.java
+END
+Posts.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/888/trunk/src/org/wordpress/android/Posts.java
+END
+CommentBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/772/trunk/src/org/wordpress/android/CommentBroadcastReceiver.java
+END
+Read.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/888/trunk/src/org/wordpress/android/Read.java
+END
+ViewCommentFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/852/trunk/src/org/wordpress/android/ViewCommentFragment.java
+END
+ReplyToComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/482/trunk/src/org/wordpress/android/ReplyToComment.java
+END
+AddAcountSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/242/trunk/src/org/wordpress/android/AddAcountSettings.java
+END
+Comments.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/888/trunk/src/org/wordpress/android/Comments.java
+END
+AddCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/857/trunk/src/org/wordpress/android/AddCategory.java
+END
+WPCOMReaderDetailPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/809/trunk/src/org/wordpress/android/WPCOMReaderDetailPage.java
+END
+WPCOMReaderTopicsSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/809/trunk/src/org/wordpress/android/WPCOMReaderTopicsSelector.java
+END
+ViewPostActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/839/trunk/src/org/wordpress/android/ViewPostActivity.java
+END
+AddQuickPressShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/772/trunk/src/org/wordpress/android/AddQuickPressShortcut.java
+END

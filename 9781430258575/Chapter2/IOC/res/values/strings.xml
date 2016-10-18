@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dagger-example</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_button_name">Add item</string>
+    <string name="option_name">Alternate Provider</string>
+
+</resources>

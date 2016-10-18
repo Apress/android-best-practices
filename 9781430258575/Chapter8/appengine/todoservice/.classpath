@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AppEngine Dev"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AppEngine API"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jersey-json-1.17.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/datanucleus-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/datanucleus-jpa-1.1.5.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="output" path="out/production/todoservice"/>
+</classpath>

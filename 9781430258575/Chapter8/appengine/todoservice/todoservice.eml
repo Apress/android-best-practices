@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/todoservice"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="AppEngine Dev" scope="PROVIDED"/>
+	<lib name="asm-3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-3.1.jar!/"/>
+	</lib>
+	<lib name="jackson-core-asl-1.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-asl-1.9.2.jar!/"/>
+	</lib>
+	<lib name="jackson-jaxrs-1.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-jaxrs-1.9.2.jar!/"/>
+	</lib>
+	<lib name="jackson-mapper-asl-1.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar!/"/>
+	</lib>
+	<lib name="jackson-xc-1.9.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-xc-1.9.2.jar!/"/>
+	</lib>
+	<lib name="jersey-client-1.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jersey-client-1.17.jar!/"/>
+	</lib>
+	<lib name="jersey-core-1.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jersey-core-1.17.jar!/"/>
+	</lib>
+	<lib name="jersey-json-1.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jersey-json-1.17.jar!/"/>
+	</lib>
+	<lib name="jersey-server-1.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jersey-server-1.17.jar!/"/>
+	</lib>
+	<lib name="jersey-servlet-1.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jersey-servlet-1.17.jar!/"/>
+	</lib>
+	<lib name="jettison-1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jettison-1.1.jar!/"/>
+	</lib>
+	<lib name="jsr311-api-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jsr311-api-1.1.1.jar!/"/>
+	</lib>
+	<lib name="datanucleus-appengine-1.0.10.final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar!/"/>
+	</lib>
+	<lib name="datanucleus-core-1.1.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/datanucleus-core-1.1.5.jar!/"/>
+	</lib>
+	<lib name="datanucleus-jpa-1.1.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/datanucleus-jpa-1.1.5.jar!/"/>
+	</lib>
+	<lib name="geronimo-jpa_3.0_spec-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar!/"/>
+	</lib>
+	<lib name="geronimo-jta_1.1_spec-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar!/"/>
+	</lib>
+	<lib name="jdo2-api-2.3-eb.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jdo2-api-2.3-eb.jar!/"/>
+	</lib>
+	<levels>
+		<level name="AppEngine Dev" value="application_server_libraries"/>
+		<level name="AppEngine API" value="project"/>
+	</levels>
+</component>

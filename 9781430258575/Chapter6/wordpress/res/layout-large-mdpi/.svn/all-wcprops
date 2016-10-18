@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/878/trunk/res/layout-large-mdpi
+END
+add_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/878/trunk/res/layout-large-mdpi/add_account.xml
+END
+comments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/426/trunk/res/layout-large-mdpi/comments.xml
+END
+edit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/878/trunk/res/layout-large-mdpi/edit.xml
+END
+new_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/674/trunk/res/layout-large-mdpi/new_account.xml
+END
+edit_comment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/878/trunk/res/layout-large-mdpi/edit_comment.xml
+END
+posts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/435/trunk/res/layout-large-mdpi/posts.xml
+END

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+      <facet type="google-app-engine" name="Google App Engine">
+        <configuration>
+          <sdk-home-path>$USER_HOME$/Java/appengine-java-sdk-1.7.5</sdk-home-path>
+          <run-enhancer-on-make>true</run-enhancer-on-make>
+          <files-to-enhance>
+            <file path="$MODULE_DIR$/src" />
+          </files-to-enhance>
+        </configuration>
+      </facet>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/888/trunk/res/menu
+END
+dashboard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/888/trunk/res/menu/dashboard.xml
+END
+posts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/888/trunk/res/menu/posts.xml
+END
+refresh_only.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/888/trunk/res/menu/refresh_only.xml
+END

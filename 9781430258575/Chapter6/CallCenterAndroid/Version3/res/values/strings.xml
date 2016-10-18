@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Call Center</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="url">Server</string>
+    <string name="login">Submit</string>
+    <string name="loginMessage">Enter Your Login Credentials</string>
+    <string name="CSQ_default">Log In</string>
+    <string name="refresh">Refresh</string>
+    <string name="content_description">Description</string>
+    <string name="default_time">00:00:00</string>
+    <string name="oldest_in_queue">Oldest Call In Queue:&#160;</string>
+    <string name="calls_in_queue">Calls In Queue:&#160;</string>
+    <string name="zero">0</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- TIP: Use relative instead of linear layouts -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget31"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/row"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tasklist"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/etNewTask"
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="18sp" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btNewTask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@+string/add_button_name" >
+        </Button>
+    </TableRow>
+
+    <ListView
+        android:id="@+id/tasklist"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" >
+    </ListView>
+
+</RelativeLayout>

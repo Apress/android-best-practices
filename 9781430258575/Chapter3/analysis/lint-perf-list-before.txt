@@ -1,0 +1,35 @@
+"FloatMath": Suggests replacing android.util.FloatMath calls with
+      java.lang.Math
+"FieldGetter": Suggests replacing uses of getters with direct field access
+      within a class
+"InefficientWeight": Looks for inefficient weight declarations in
+      LinearLayouts
+"NestedWeights": Looks for nested layout weights, which are costly
+"DisableBaselineAlignment": Looks for LinearLayouts which should set
+      android:baselineAligned=false
+"ObsoleteLayoutParam": Looks for layout params that are not valid for the
+      given parent layout
+"MergeRootFrame": Checks whether a root <FrameLayout> can be replaced with a
+      <merge> tag
+"UseCompoundDrawables": Checks whether the current node can be replaced by a
+      TextView using compound drawables.
+"UselessParent": Checks whether a parent layout can be removed.
+"UselessLeaf": Checks whether a leaf layout can be removed.
+"TooManyViews": Checks whether a layout has too many views
+"TooDeepLayout": Checks whether a layout hierarchy is too deep
+"ViewTag": Finds potential leaks when using View.setTag
+"HandlerLeak": Ensures that Handler classes do not hold on to a reference to
+      an outer class
+"UnusedResources": Looks for unused resources
+"UnusedIds": Looks for unused id's
+"SecureRandom": Looks for suspicious usage of the SecureRandom class
+"Overdraw": Looks for overdraw issues (where a view is painted only to be
+      fully painted over)
+"UnusedNamespace": Finds unused namespaces in XML documents
+"DrawAllocation": Looks for memory allocations within drawing code
+"UseValueOf": Looks for usages of new for wrapper classes which should use
+      valueOf instead
+"UseSparseArrays": Looks for opportunities to replace HashMaps with the more
+      efficient SparseArray
+"Wakelock": Looks for problems with WakeLock usage
+"Recycle": Looks for missing recycle() calls on resources

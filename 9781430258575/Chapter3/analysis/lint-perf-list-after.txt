@@ -1,0 +1,12 @@
+Scanning android-optimization: ..........
+Scanning android-optimization (Phase 2): ...
+AndroidManifest.xml:9: Error: Class referenced in the manifest, com.logicdrop.todos.activity.TodoActivity, was not found in the project or the libraries [MissingRegistered]
+        <activity android:label="@string/app_name" android:name=".activity.TodoActivity">
+        ^
+AndroidManifest.xml:15: Error: Class referenced in the manifest, com.logicdrop.todos.Splash, was not found in the project or the libraries [MissingRegistered]
+        <activity android:name=".Splash">
+        ^
+2 errors, 0 warnings
+
+// Could not fix last two errors due to bug in lint?
+// https://code.google.com/p/android/issues/detail?id=40005

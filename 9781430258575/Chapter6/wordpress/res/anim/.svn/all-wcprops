@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/371/trunk/res/anim
+END
+dashboard_hide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/371/trunk/res/anim/dashboard_hide.xml
+END
+show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/325/trunk/res/anim/show.xml
+END
+cycle_5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/240/trunk/res/anim/cycle_5.xml
+END
+dashboard_show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/371/trunk/res/anim/dashboard_show.xml
+END
+rail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/256/trunk/res/anim/rail.xml
+END
+disappear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/325/trunk/res/anim/disappear.xml
+END
+shake.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/240/trunk/res/anim/shake.xml
+END

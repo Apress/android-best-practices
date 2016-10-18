@@ -1,0 +1,82 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Roboelectric 1.0.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.4.1:clean (default-clean) @ roboelectric ---
+[INFO] Deleting /Users/kjq/work/roboelectric/bin
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:generate-sources (default-generate-sources) @ roboelectric ---
+[INFO] ANDROID-904-002: Found aidl files: Count = 0
+[INFO] ANDROID-904-002: Found aidl files: Count = 0
+[INFO] Manifest merging disabled. Using project manifest only
+[INFO] /Applications/adt-bundle-mac-x86_64-20130219/sdk/build-tools/18.1.1/aapt [package, -m, -J, /Users/kjq/work/roboelectric/bin/generated-sources/r, -M, /Users/kjq/work/roboelectric/AndroidManifest.xml, -S, /Users/kjq/work/roboelectric/res, --auto-add-overlay, -A, /Users/kjq/work/roboelectric/assets, -I, /Applications/adt-bundle-mac-x86_64-20130219/sdk/platforms/android-18/android.jar]
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ roboelectric ---
+[WARNING] Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /Users/kjq/work/roboelectric/src/main/resources
+[INFO] skip non existing resourceDirectory /Users/kjq/work/roboelectric/bin/generated-sources/extracted-dependencies/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:compile (default-compile) @ roboelectric ---
+[WARNING] File encoding has not been set, using platform encoding MacRoman, i.e. build is platform dependent!
+[INFO] Compiling 5 source files to /Users/kjq/work/roboelectric/bin/classes
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:proguard (default-proguard) @ roboelectric ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ roboelectric ---
+[WARNING] Using platform encoding (MacRoman actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /Users/kjq/work/roboelectric/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.3.2:testCompile (default-testCompile) @ roboelectric ---
+[WARNING] File encoding has not been set, using platform encoding MacRoman, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to /Users/kjq/work/roboelectric/bin/tests
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.6:test (default-test) @ roboelectric ---
+[INFO] Surefire report directory: /Users/kjq/work/roboelectric/bin/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.example.TodoActivityTest
+WARNING: no system properties value for ro.build.date.utc
+DEBUG: Loading resources for android from jar:/Users/kjq/.m2/repository/org/robolectric/android-res/4.1.2_r1_rc/android-res-4.1.2_r1_rc-real.jar!/res...
+DEBUG: Loading resources for com.example from ./res...
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.255 sec
+
+Results :
+
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:emma (default-emma) @ roboelectric ---
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:dex (default-dex) @ roboelectric ---
+[INFO] /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java [-Xmx1024M, -jar, /Applications/adt-bundle-mac-x86_64-20130219/sdk/build-tools/18.1.1/lib/dx.jar, --dex, --output=/Users/kjq/work/roboelectric/bin/classes.dex, /Users/kjq/work/roboelectric/bin/classes]
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ roboelectric ---
+[INFO] Building jar: /Users/kjq/work/roboelectric/bin/roboelectric-1.0.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:apk (default-apk) @ roboelectric ---
+[INFO] Copying local assets files to combined assets directory.
+[INFO] Enabling debug build for apk.
+[INFO] /Applications/adt-bundle-mac-x86_64-20130219/sdk/build-tools/18.1.1/aapt [package, -f, -M, /Users/kjq/work/roboelectric/AndroidManifest.xml, -S, /Users/kjq/work/roboelectric/res, --auto-add-overlay, -A, /Users/kjq/work/roboelectric/bin/generated-sources/combined-assets/assets, -I, /Applications/adt-bundle-mac-x86_64-20130219/sdk/platforms/android-18/android.jar, -F, /Users/kjq/work/roboelectric/bin/roboelectric-1.0.0-SNAPSHOT.ap_, --debug-mode]
+[INFO] Add native libraries from /Users/kjq/work/roboelectric/libs
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:internal-pre-integration-test (default-internal-pre-integration-test) @ roboelectric ---
+[INFO] No InstrumentationRunner found - skipping tests
+[INFO] 
+[INFO] --- android-maven-plugin:3.6.1:internal-integration-test (default-internal-integration-test) @ roboelectric ---
+[INFO] No InstrumentationRunner found - skipping tests
+[INFO] 
+[INFO] --- maven-install-plugin:2.5:install (default-install) @ roboelectric ---
+[INFO] Installing /Users/kjq/work/roboelectric/bin/roboelectric-1.0.0-SNAPSHOT.apk to /Users/kjq/.m2/repository/com/example/roboelectric/1.0.0-SNAPSHOT/roboelectric-1.0.0-SNAPSHOT.apk
+[INFO] Installing /Users/kjq/work/roboelectric/pom.xml to /Users/kjq/.m2/repository/com/example/roboelectric/1.0.0-SNAPSHOT/roboelectric-1.0.0-SNAPSHOT.pom
+[INFO] Installing /Users/kjq/work/roboelectric/bin/roboelectric-1.0.0-SNAPSHOT.jar to /Users/kjq/.m2/repository/com/example/roboelectric/1.0.0-SNAPSHOT/roboelectric-1.0.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 12.913s
+[INFO] Finished at: Tue Oct 22 20:48:07 EDT 2013
+[INFO] Final Memory: 20M/81M
+[INFO] ------------------------------------------------------------------------

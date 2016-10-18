@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="custom_rules">
+    <target name="headers" depends="debug">
+        <path id="headers.classpath">
+            <path refid="project.all.jars.path" />
+            <path path="${out.classes.absolute.dir}" />
+        </path>
+
+        <property name="headers.bootclasspath.value" refid="project.target.class.path" />
+        <property name="headers.classpath.value" refid="headers.classpath" />
+        <property name="headers.destdir" value="jni" />
+
+        <echo message="Generating C/C++ hader files..." />
+
+        <mkdir dir="${headers.destdir}" />
+
+        <javah destdir="${headers.destdir}" 
+                classpath="${headers.classpath.value}" 
+                bootclasspath="${headers.bootclasspath.value}"
+                verbose="true">
+
+            <!-- List of classes with native methods.  -->
+            <class name="com.apress.example.MainActivity" />
+        </javah>
+    </target>
+</project>
+
